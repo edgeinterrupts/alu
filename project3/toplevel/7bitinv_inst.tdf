@@ -1,0 +1,8 @@
+(
+	result_sig[]
+) = 7bitinv	(
+	.data[] = data_sig[]
+)
+RETURNS (
+	.result[]
+);
